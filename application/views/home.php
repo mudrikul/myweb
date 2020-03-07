@@ -6,6 +6,6 @@
     <title>Belajar ci</title>
 </head>
 <body>
-    welcome home aaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    welcome home aaaaaaaaaaaaaaaaa
 </body>
 </html>
