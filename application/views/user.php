@@ -10,7 +10,7 @@
 
     <title>Hello, world!</title>
   </head>
-  <body>
+  <body class="container">
     <h1>Hello, world!</h1>
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
         <a class="navbar-brand">Brand</a>
