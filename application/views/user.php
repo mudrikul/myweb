@@ -12,6 +12,15 @@
   </head>
   <body>
     <h1>Hello, world!</h1>
+    <div class="card">
+        <div class="card-header">
+            test card
+        </div>
+        <div class="card-body">
+            <h5 class="card-title">Title</h5>
+            <p class="card-text">Content</p>
+        </div>
+    </div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
