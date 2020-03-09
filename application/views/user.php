@@ -11,7 +11,7 @@
     <title>Hello, world!</title>
   </head>
   <body class="container">
-    <h1>Hello, world!</h1>
+    <h1>Hello</h1>
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
         <a class="navbar-brand">Brand</a>
         <button class="navbar-toggler" data-target="#my-nav" data-toggle="collapse" aria-controls="my-nav" aria-expanded="false" aria-label="Toggle navigation">
