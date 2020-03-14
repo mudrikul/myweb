@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Belajar ci</title>
 </head>
 <body>
-    welcome home aaaaaaaaaaaaaaaaa
-	next update
+    welcome home ya
 </body>
 </html>
